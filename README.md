@@ -3,3 +3,11 @@
 📌Project Summary
 
 This project focuses on analyzing global life expectancy data using Python to uncover trends and patterns across countries, years, and genders. The dataset was cleaned and preprocessed by handling missing values, checking for duplicates, standardizing formats, and detecting outliers using the IQR method. Feature engineering was performed by creating life expectancy categories, and data transformation techniques such as Min-Max Normalization were applied. Exploratory Data Analysis (EDA), including univariate, bivariate, and multivariate analysis, was conducted using Pandas, Matplotlib, Seaborn, and Plotly to visualize key relationships and trends. The analysis revealed that female life expectancy is generally higher than male life expectancy, global life expectancy has improved over time, and significant variations exist across countries. This project demonstrates the complete data analytics workflow, from data preparation to insight generation, and highlights the role of data analytics in understanding global health outcomes.
+
+🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
